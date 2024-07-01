@@ -1,0 +1,41 @@
+
+    .text {
+           background-color: rgba(141, 238, 245, 0.623);
+           color: black;
+           font-family: 'Times New Roman', Times, serif;
+           font-size: 120%;
+        }
+        .heading{
+        
+           color: black;
+           font-family: 'Times New Roman', Times, serif;
+           font-size: 200%;
+           text-align: center;
+
+        }
+        .subh {
+            
+           color: black;
+           font-family: 'Times New Roman', Times, serif;
+           font-size: 130%;
+
+        }
+        .fh {
+            background-color: rgba(145, 232, 240, 0.767);
+           color: black;
+           font-family: 'Times New Roman', Times, serif;
+           font-size: 120%;
+           border:3px solid rgb(236, 20, 13);
+           
+        }
+        .mh {
+            background-color: rgba(100, 235, 185, 0.884);
+           color: black;
+           font-family: 'Times New Roman', Times, serif;
+           font-size: 250%;
+           text-align: center;
+
+        }
+        .fmh {
+            background-color: rgba(173, 241, 217, 0.61);
+        }
